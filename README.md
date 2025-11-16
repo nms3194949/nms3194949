@@ -34,7 +34,8 @@ https://nms3194949.github.io/MOMO_FinSphere/
 ---
 
 ## 💡 「雙贏策略」核心理念
-> **月配息 × 資產增值 → 才是真正的複利**  
+> **月配息 × 資產增值 → 才是真正的複利**
+
 我建構的所有工具，都以這個核心思想為中心：
 
 - 避免「單一配息基金」吃本金  
@@ -53,28 +54,21 @@ Backend：Cloudflare Workers / Node.js / Custom API / Render
 Data：Excel Automation / JSON Pipelines / Financial Modeling  
 Deploy：GitHub Pages / Cloudflare Pages / Render  
 Tools：html2canvas / SheetJS / FinMind / Binance API  
+```
 
+<!-- GitHub Profile 註解（保留即可） -->
 <!--
-**nms3194949/nms3194949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**nms3194949/nms3194949** is a special repo...
 -->
 
-📱 社群連結｜找到 MOMO
+---
 
-Instagram（MOMO 財商）：https://www.instagram.com/momo_82786/
+## 📱 社群連結｜找到 MOMO
+- Instagram（MOMO 財商）：https://www.instagram.com/momo_82786/
+- 官方 LINE｜雙贏策略中心：https://portaly.cc/momo_82786/
 
-官方 LINE｜雙贏策略中心：https://portaly.cc/momo_82786
-🏁 Thanks for visiting!
+---
 
-如果你對 基金研究、AI 工具開發、回撤策略或合作 有興趣
+## 🏁 Thanks for visiting!
+如果你對 **基金研究、AI 工具開發、回撤策略或合作** 有興趣，  
 歡迎透過 IG 或 LINE 與我交流 🙌
